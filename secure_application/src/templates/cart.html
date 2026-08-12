@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Shopping Cart</h1>
+
+{% if products %}
+
+{% for product in products %}
+
+<div class="card">
+
+    <h2>{{ product.name }}</h2>
+
+    <p>Quantity: {{ product.quantity }}</p>
+
+    <p>
+        ₹{{ "%.2f"|format(product.subtotal) }}
+    </p>
+
+</div>
+
+{% endfor %}
+
+<h2>Total: ₹{{ "%.2f"|format(total) }}</h2>
+
+{% if g.user %}
+
+<form method="post" action="{{ url_for('checkout') }}">
+    <button type="submit">Checkout</button>
+</form>
+
+{% else %}
+
+<p>Please login before checkout.</p>
+
+{% endif %}
+
+<form method="post" action="{{ url_for('clear_cart') }}">
+    <button type="submit">Clear Cart</button>
+</form>
+
+{% else %}
+
+<p>Your cart is empty.</p>
+
+{% endif %}
+
+{% endblock %}

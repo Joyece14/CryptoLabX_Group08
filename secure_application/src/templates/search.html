@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Product Search</h1>
+
+{% if vulnerable %}
+
+<div class="warning">
+    This page is intentionally vulnerable for the security lab.
+</div>
+
+{% endif %}
+
+<form method="get"
+      action="{% if vulnerable %}{{ url_for('vulnerable_search') }}{% else %}{{ url_for('search') }}{% endif %}">
+
+    <input
+        name="q"
+        value="{{ query }}"
+        placeholder="Search products"
+    >
+
+    <button type="submit">Search</button>
+
+</form>
+
+{% if xss_demo %}
+
+<div class="card">
+
+    <h2>Reflected Input</h2>
+
+    <!--
+    Normal Jinja output is escaped.
+    The vulnerable demonstration is documented separately
+    rather than enabling unsafe HTML rendering here.
+    -->
+
+    <p>You searched for:</p>
+
+    <pre>{{ query }}</pre>
+
+</div>
+
+{% endif %}
+
+<div class="products">
+
+{% for product in products %}
+
+<div class="card">
+
+    <h2>{{ product.name }}</h2>
+
+    <p>{{ product.description }}</p>
+
+    <strong>₹{{ "%.2f"|format(product.price) }}</strong>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+{% endblock %}

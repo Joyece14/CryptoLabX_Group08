@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Group 08 E-Commerce Website</h1>
+
+<p>
+    Product browsing and shopping cart demonstration.
+</p>
+
+<div class="products">
+
+{% for product in products %}
+
+<div class="card">
+
+    <h2>{{ product.name }}</h2>
+
+    <p>{{ product.description }}</p>
+
+    <strong>₹{{ "%.2f"|format(product.price) }}</strong>
+
+    <br><br>
+
+    <form method="post"
+          action="{{ url_for('add_to_cart', product_id=product.id) }}">
+        <button type="submit">Add to Cart</button>
+    </form>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+{% endblock %}

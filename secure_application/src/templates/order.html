@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if vulnerable %}
+<div class="warning">
+    WARNING: This page is part of the intentionally vulnerable
+    laboratory demonstration.
+</div>
+{% endif %}
+
+<h1>Order #{{ order.id }}</h1>
+
+<p>Total: ₹{{ "%.2f"|format(order.total) }}</p>
+
+<h2>Items</h2>
+
+{% for item in items %}
+
+<div class="card">
+
+    <h3>{{ item.name }}</h3>
+
+    <p>Quantity: {{ item.quantity }}</p>
+
+    <p>Price: ₹{{ "%.2f"|format(item.price) }}</p>
+
+</div>
+
+{% endfor %}
+
+{% endblock %}
