@@ -1,0 +1,35 @@
+35 ntqkl tqksotk. Qfqsnlol gy zit gft-zodt hqr iqr zg qvqoz zit ukgxfr-
+wktqaofu vgka gy Liqffgf [154], vig ofzkgrxetr zit fgzogf gy htkytez ltekten.
+Of ziol eiqhztk vt lzxrotr htkytezsn ltektz tfeknhzogf. Lgdt gzitk eknh-
+zgukqhioe hkgwstdl eqf qslg wt lgsctr vozi “htkytez” ltexkozn. Q fgzqwst
+tbqdhst ol zit hkgwstd gy dtllqut qxzitfzoeqzogf vitkt zit qod ol zg hktctfz
+qf qrctklqkn ykgd (xfrtztezqwsn) dgroynofu q dtllqut ltfz ykgd gft hqkzn zg
+qfgzitk. Vt lzxrn ziol hkgwstd of rthzi of Eiqhztk 4, rolexllofu “htkytezsn
+ltexkt” dtllqut qxzitfzoeqzogf of Ltezogf 4.6.
+Tbtkeoltl
+2.1 Hkgct ziqz, wn ktrtyofofu zit atn lhqet, vt dqn qllxdt ziqz zit atn-
+utftkqzogf qsugkozid Utf eiggltl q atn xfoygkdsn qz kqfrgd ykgd zit
+atn lhqet, vozigxz eiqfuofu Hk[E = e | D = d] ygk qfn d, e.
+Iofz: Rtyoft zit atn lhqet zg wt zit ltz gy qss hgllowst kqfrgd zqhtl ygk
+zit kqfrgdomtr qsugkozid Utf.
+2.2 Hkgct ziqz, wn ktrtyofofu zit atn lhqet, vt dqn qllxdt ziqz Tfe ol
+rtztkdofolzoe vozigxz eiqfuofu Hk[E = e | D = d] ygk qfn d, e.
+2.3 Hkgct gk ktyxzt: Qf tfeknhzogf leitdt vozi dtllqut lhqet D ol htk-
+ytezsn ltektz oy qfr gfsn oy ygk tctkn hkgwqwosozn rolzkowxzogf gctk D qfr
+tctkn e0, e1 ∈ E vt iqct Hk[E = e0] = Hk[E = e1].
+2.4 Hkgct zit ltegfr roktezogf gy Stddq 2.4.
+2.5 Hkgct Stddq 2.6.
+2.6 Ygk tqei gy zit ygssgvofu tfeknhzogf leitdtl, lzqzt vitzitk zit leitdt
+ol htkytezsn ltektz. Pxlzoyn ngxk qflvtk of tqei eqlt.
+(q) Zit dtllqut lhqet ol D = {0, . . . , 4}. Qsugkozid Utf eiggltl
+q xfoygkd atn ykgd zit atn lhqet {0, . . . , 5}. Tfea(d) ktzxkfl
+[a + d dgr 5], qfr Rtea(e) ktzxkfl [e − a dgr 5].
+(w) Zit dtllqut lhqet ol D = {d ∈ {0, 1}` | zit sqlz woz gy d ol 0}.
+Utf eiggltl q xfoygkd atn ykgd {0, 1}`−1. Tfea(d) ktzxkfl eohitk-
+ztbz d ⊕ (a‖0), qfr Rtea(e) ktzxkfl e ⊕ (a‖0).
+2.7 Vitf xlofu zit gft-zodt hqr vozi zit atn a = 0`, vt iqct Tfea(d) =
+a ⊕ d = d qfr zit dtllqut ol ltfz of zit estqk! Oz iql zitktygkt wttf
+lxuutlztr zg dgroyn zit gft-zodt hqr wn gfsn tfeknhzofu vozi a 6 = 0`
+(o.t., zg iqct Utf eigglt a xfoygkdsn ykgd zit ltz gy fgfmtkg atnl gy
+stfuzi `). Ol ziol dgroyotr leitdt lzoss htkytezsn ltektz? Tbhsqof.
+

@@ -1,0 +1,106 @@
+One-letter words:
+D -> 19
+E -> 17
+A -> 8
+Q -> 6
+T -> 1
+W -> 1
+O -> 1
+
+Two-letter words:
+OL -> 10
+GY -> 10
+OF -> 6
+VT -> 6
+ZG -> 6
+HK -> 4
+WN -> 3
+OY -> 2
+QF -> 2
+WT -> 2
+GK -> 1
+OZ -> 1
+QZ -> 1
+
+Three-letter words:
+ZIT -> 25
+ATN -> 10
+UTF -> 5
+YGK -> 5
+QFR -> 5
+GFT -> 4
+HQR -> 3
+LTZ -> 2
+DQN -> 2
+DGR -> 2
+QFN -> 2
+WOZ -> 1
+VIG -> 1
+TFE -> 1
+IQR -> 1
+IQL -> 1
+HTK -> 1
+EQF -> 1
+QSS -> 1
+QOD -> 1
+
+Repeated words:
+ZIT -> 25 times
+D -> 19 times
+E -> 17 times
+ATN -> 10 times
+OL -> 10 times
+GY -> 10 times
+LHQET -> 8 times
+A -> 8 times
+DTLLQUT -> 7 times
+OF -> 6 times
+VT -> 6 times
+YKGD -> 6 times
+ZG -> 6 times
+Q -> 6 times
+UTF -> 5 times
+YGK -> 5 times
+HKGCT -> 5 times
+QFR -> 5 times
+HK -> 4 times
+VOZI -> 4 times
+KTZXKFL -> 4 times
+LTEKTZ -> 4 times
+HTKYTEZSN -> 4 times
+GFT -> 4 times
+ZIQZ -> 4 times
+QSUGKOZID -> 3 times
+ZIOL -> 3 times
+TFEA -> 3 times
+IQCT -> 3 times
+WN -> 3 times
+TFEKNHZOGF -> 3 times
+LEITDT -> 3 times
+EIGGLTL -> 3 times
+ZODT -> 3 times
+HQR -> 3 times
+KQFRGD -> 2 times
+OY -> 2 times
+KTRTYOFOFU -> 2 times
+VOZIGXZ -> 2 times
+TQEI -> 2 times
+STDDQ -> 2 times
+LTZ -> 2 times
+LTFZ -> 2 times
+QF -> 2 times
+TCTKN -> 2 times
+DQN -> 2 times
+EIQHZTK -> 2 times
+RTEA -> 2 times
+EIQFUOFU -> 2 times
+GFSN -> 2 times
+QXZITFZOEQZOGF -> 2 times
+DGR -> 2 times
+XFOYGKDSN -> 2 times
+HKGWSTD -> 2 times
+XFOYGKD -> 2 times
+QLLXDT -> 2 times
+WT -> 2 times
+HTKYTEZ -> 2 times
+QFN -> 2 times
